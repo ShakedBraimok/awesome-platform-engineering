@@ -21,7 +21,7 @@ _______________________________________________
 ## Newsletters
 - [Platform Engineering Newsletter ⚡ by Senora.dev](https://senora.beehiiv.com/)
 - [Platform Engineering Weekly](https://www.platformengineeringweekly.com/)
-- [Platform Weekly by Humanitec](https://platformweekly.com/)
+- [Platform Weekly](https://platformweekly.com/)
 
 ## YouTube Channels
 - [Dev & Ops in a few mins](https://www.youtube.com/@DevOpsInAfewMins)
