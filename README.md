@@ -48,14 +48,14 @@ _______________________________________________
 - [AWS Proton](https://aws.amazon.com/proton/)
 - [Helm.sh](https://helm.sh/docs/chart_best_practices/templates/)
 
+## Self-Service
+- [Port - Self-Service Hub](https://www.getport.io/product/self-service)
+- [ScriptKit - for local actions](https://www.scriptkit.com/)
+- [Env0 - Managed Self-Service](https://www.env0.com/solutions/managed-self-service)
+
 ## Infrastructure as Code
 - [Terraform](https://www.terraform.io/) 
 - [Pulumi](https://www.pulumi.com/)
 - [CloudFormation](https://aws.amazon.com/cloudformation/)
 - [AWS CDK](https://aws.amazon.com/cdk/)
 - [Terraform CDK](https://developer.hashicorp.com/terraform/cdktf)
-
-## Self-Service
-- [Port - Self-Service Hub](https://www.getport.io/product/self-service)
-- [ScriptKit - for local actions](https://www.scriptkit.com/)
-- [Env0 - Managed Self-Service](https://www.env0.com/solutions/managed-self-service)
