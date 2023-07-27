@@ -28,6 +28,10 @@ _______________________________________________
 - [Platform Engineering channel](https://www.youtube.com/@PlatformEngineering)
 - [Port channel](https://www.youtube.com/@getport)
 
+### Tutorials
+- [What is Platform Engineering?](https://www.youtube.com/watch?v=Bfhl8kcSaEI)
+- [What is Platform Engineering and how it fits into DevOps and Cloud world](https://www.youtube.com/watch?v=ghzsBm8vOms)
+
 ## Slack Channels 
 - [Platformengineering.org Slack Channel](https://platformengin-b0m7058.slack.com/join/shared_invite/zt-1yj4x597k-Gq~oDCGWe9QoIP38K1C7sg#/shared-invite/email)
 - [Port Slack Channel](https://join.slack.com/t/port-community/shared_invite/zt-1xp8um1pc-tgDBE_ENmXdJwDzy1nw~3Q)
