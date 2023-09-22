@@ -46,6 +46,7 @@ _______________________________________________
 ## Internal Developers Platforms
 - [Humanitec](https://humanitec.com/)
 - [Mia Platform](https://mia-platform.eu/)
+- [GitHub as a Platform Engineering Platform](https://www.youtube.com/watch?v=B4ra4MWiZck)
 
 ## Templates
 - [Cookiecutter.io](https://cookiecutter.io)
