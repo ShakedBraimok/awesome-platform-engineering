@@ -43,6 +43,9 @@ _______________________________________________
 - [OpsLevel](https://www.opslevel.com/)
 - [Roadie.io](https://roadie.io/)
 
+## Monitoring & Alerting
+- [Keep](https://www.github.com/keephq/keep)
+
 ## Internal Developers Platforms
 - [Humanitec](https://humanitec.com/)
 - [Mia Platform](https://mia-platform.eu/)
