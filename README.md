@@ -50,6 +50,8 @@ _______________________________________________
 - [Humanitec](https://humanitec.com/)
 - [Mia Platform](https://mia-platform.eu/)
 - [GitHub as a Platform Engineering Platform](https://www.youtube.com/watch?v=B4ra4MWiZck)
+- [Qovery](https://www.qovery.com/)
+- [Torque by Quali](https://www.quali.com/torque/)
 
 ## Templates
 - [Cookiecutter.io](https://cookiecutter.io)
