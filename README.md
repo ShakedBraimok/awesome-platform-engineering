@@ -42,6 +42,7 @@ _______________________________________________
 - [Port](https://www.getport.io/) 
 - [OpsLevel](https://www.opslevel.com/)
 - [Roadie.io](https://roadie.io/)
+- [Cortex](https://www.cortex.io)
 
 ## Monitoring & Alerting
 - [Keep](https://www.github.com/keephq/keep)
