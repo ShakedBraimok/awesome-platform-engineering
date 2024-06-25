@@ -52,6 +52,7 @@ _______________________________________________
 - [Rely.io](https://www.rely.io/)
 - [Atlassian Compass](https://www.atlassian.com/software/compass)
 - [CyCloid](https://www.cycloid.io/solutions/self-service-portal)
+- [Flanksource Mission Control](https://www.flanksource.com)
 
 ## Internal Developers Platforms
 - [Humanitec](https://humanitec.com/)
@@ -72,6 +73,7 @@ _______________________________________________
 - [ScriptKit - for local actions](https://www.scriptkit.com/)
 - [Port - Self-Service Hub](https://www.getport.io/product/self-service)
 - [Env0 - Managed Self-Service](https://www.env0.com/solutions/managed-self-service)
+- [Flanksource Mission Control](https://docs.flanksource.com/playbooks)
 
 ## Infrastructure as Code
 - [Terraform](https://www.terraform.io/) 
@@ -84,3 +86,4 @@ _______________________________________________
 
 ## Monitoring & Alerting
 - [Keep](https://www.github.com/keephq/keep)
+- [Canary Checker](https://canarychecker.io)
