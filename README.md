@@ -87,3 +87,4 @@ _______________________________________________
 ## Monitoring & Alerting
 - [Keep](https://www.github.com/keephq/keep)
 - [Canary Checker](https://canarychecker.io)
+- [KubeStellar Console](https://console.kubestellar.io) - Open source AI-powered multi-cluster Kubernetes dashboard with real-time observability, 20+ CNCF integrations (Argo, Kyverno, Prometheus, Grafana, Istio, Flux, Falco), and AI-guided cluster operations for hybrid edge and cloud environments. CNCF Sandbox project (Apache 2.0).
