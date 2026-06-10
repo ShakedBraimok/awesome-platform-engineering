@@ -21,7 +21,7 @@ _______________________________________________
 - [Platformers Blog](https://www.platformers.community/blog)
 
 ## Communities 
-- [Platform Engineering]([https://platformcon.com](https://platformengineering.org/)
+- [Platform Engineering](https://platformengineering.org/)
 - [Platformers](https://www.platformers.community/)
   
 ## Newsletters
