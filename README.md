@@ -57,6 +57,7 @@ _______________________________________________
 - [Atlassian Compass](https://www.atlassian.com/software/compass)
 - [CyCloid](https://www.cycloid.io/solutions/self-service-portal)
 - [Flanksource Mission Control](https://www.flanksource.com)
+- [KubeStellar Console](https://github.com/kubestellar/console) — Multi-cluster Kubernetes management console with AI-powered insights, MCP integration, and real-time observability across edge and cloud clusters.
 
 ## Internal Developers Platforms
 - [Humanitec](https://humanitec.com/)
