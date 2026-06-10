@@ -14,12 +14,15 @@ _______________________________________________
 ## Blogs
 - [Senora.dev](https://senora.dev/blog)
 - [Platform Engineering blog](https://platformengineering.org/blog)
+- [Internal Developer Platform](https://internaldeveloperplatform.org)
+- [Weave Intelligence](https://weaveintelligence.io)
 - [Spotify Engineering](https://engineering.atspotify.com/)
 - [Netflix Engineering](https://netflixtechblog.com/neflix-platform-engineering-were-just-getting-started-267f65c4d1a7)
 - [Platformers Blog](https://www.platformers.community/blog)
 
 ## Communities 
 - [Platformers](https://www.platformers.community/)
+- [PlatformCon](https://platformcon.com)
   
 ## Newsletters
 - [Platform Engineering Newsletter ⚡ by Senora.dev](https://senora.beehiiv.com/)
@@ -34,6 +37,7 @@ _______________________________________________
 ### Tutorials
 - [What is Platform Engineering?](https://www.youtube.com/watch?v=Bfhl8kcSaEI)
 - [What is Platform Engineering and how it fits into DevOps and Cloud world](https://www.youtube.com/watch?v=ghzsBm8vOms)
+- [Platform Engineering University](https://university.platformengineering.org)
 
 ## Slack Communities 
 - [Platformengineering.org Slack Channel](https://platformengin-b0m7058.slack.com/join/shared_invite/zt-1yj4x597k-Gq~oDCGWe9QoIP38K1C7sg#/shared-invite/email)
