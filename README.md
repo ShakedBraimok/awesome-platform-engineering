@@ -110,7 +110,7 @@ _______________________________________________
 ## Monitoring & Alerting
 - [Keep](https://www.github.com/keephq/keep) — Open-source alert management and orchestration platform.
 - [Canary Checker](https://canarychecker.io) — Kubernetes-native synthetic monitoring and health checking tool.
-- [KubeStellar Console](https://console.kubestellar.io) — Open source AI-powered multi-cluster Kubernetes dashboard with real-time observability, 20+ CNCF integrations (Argo, Kyverno, Prometheus, Grafana, Istio, Flux, Falco), and AI-guided cluster operations for hybrid edge and cloud environments. CNCF Sandbox project (Apache 2.0).
+- [KubeStellar Console](https://console.kubestellar.io) — Open source AI-powered multi-cluster Kubernetes dashboard with real-time observability.
 
 ## FinOps & Cloud Cost Management
 - [Cloud Waste Scanner](https://cloud-waste-scanner.com) — Tool for identifying and eliminating cloud resource waste.
