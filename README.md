@@ -118,7 +118,7 @@ _______________________________________________
 - [Kubecost](https://www.kubecost.com/) — Real-time Kubernetes cost monitoring, allocation, and capacity management for platform teams.
 
 ## AI Platform Engineering & LLMOps
+- [Aquifer-ai](https://aquifer-ai.dev) — Open source Context Lake for organization agents.
 - [LiteLLM](https://litellm.ai/) — Call all LLM APIs using the OpenAI format (AI Gateway).
 - [Langfuse](https://langfuse.com/) — Open source LLM engineering platform (Observability, Analytics, Prompt Management).
 - [Portkey](https://portkey.ai/) — Enterprise AI gateway and observability platform for production LLM apps.
-- [Aquifer-ai](#) — Open source Context Lake for GenAI applications.
