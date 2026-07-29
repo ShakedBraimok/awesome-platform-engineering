@@ -105,6 +105,7 @@ _______________________________________________
 
 ## Secrets Management & Security
 - [Infisical](https://infisical.com/) — Open-source secret management platform engineered specifically to optimize developer workflows and security.
+- [Darkmoon](https://github.com/ASCIT31/Dark-Moon) — Open source (GPL-3.0) autonomous AI penetration testing platform covering web, API, Active Directory and Kubernetes.
 - [Akeyless](https://www.akeyless.io/) — Secrets management SaaS platform offering vaultless encryption and automated secrets lifecycle.
 
 ## Monitoring & Alerting
