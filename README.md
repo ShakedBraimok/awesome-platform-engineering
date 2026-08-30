@@ -122,3 +122,4 @@ _______________________________________________
 - [LiteLLM](https://litellm.ai/) — Call all LLM APIs using the OpenAI format (AI Gateway).
 - [Langfuse](https://langfuse.com/) — Open source LLM engineering platform (Observability, Analytics, Prompt Management).
 - [Portkey](https://portkey.ai/) — Enterprise AI gateway and observability platform for production LLM apps.
+- [SandBase Harness](https://github.com/sandbaseai/sandbase-harness) — Local-first agent runtime and MCP bridge for auditable sessions, sandboxed execution, approvals, and Docker/Kubernetes-backed workflows.
