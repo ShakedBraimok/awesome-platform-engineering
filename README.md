@@ -122,3 +122,4 @@ _______________________________________________
 - [LiteLLM](https://litellm.ai/) — Call all LLM APIs using the OpenAI format (AI Gateway).
 - [Langfuse](https://langfuse.com/) — Open source LLM engineering platform (Observability, Analytics, Prompt Management).
 - [Portkey](https://portkey.ai/) — Enterprise AI gateway and observability platform for production LLM apps.
+- [YYLO](https://github.com/yylo-dev/yylo) — Open source CLI orchestrator for coding agents with typed task, validation, merge, and release-readiness boundaries; per-task branch/worktree and a risk-based merge queue.
