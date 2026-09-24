@@ -122,3 +122,4 @@ _______________________________________________
 - [LiteLLM](https://litellm.ai/) — Call all LLM APIs using the OpenAI format (AI Gateway).
 - [Langfuse](https://langfuse.com/) — Open source LLM engineering platform (Observability, Analytics, Prompt Management).
 - [Portkey](https://portkey.ai/) — Enterprise AI gateway and observability platform for production LLM apps.
+- [ML Platform Infrastructure](https://github.com/negativexq/ml-platform-infrastructure) — Local Kubernetes ML platform with MLflow, Helm, Argo CD, autoscaling, model serving, and Prometheus/Grafana observability.
