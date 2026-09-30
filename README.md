@@ -67,6 +67,7 @@ _______________________________________________
 - [Qovery](https://www.qovery.com/) — Internal developer platform for automated cloud application deployments.
 - [Torque by Quali](https://www.quali.com/torque/) — Environment-as-a-Service platform for orchestrating application environments.
 - [Aptible](https://aptible.com/) — Compliance-focused platform-as-a-service for hosting cloud apps.
+- [Peon](https://peon.sh/) — Open-source self-hosted Docker PaaS (Vercel/Heroku alternative) with project RBAC, audit logs, and MCP.
 - [Nethopper.io](https://www.nethopper.io/) — Multicloud platform orchestration and application networking tool.
 - [Harness](https://www.harness.io/) — Software delivery platform including internal developer portal capabilities.
 
