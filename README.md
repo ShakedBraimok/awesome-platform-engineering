@@ -25,6 +25,7 @@ _______________________________________________
 - [Platformers](https://www.platformers.community/)
   
 ## Newsletters
+- [AI SRE Weekly](https://www.linkedin.com/company/ai-sre-weekly/)
 - [Platform Edge](https://www.linkedin.com/newsletters/platform-edge-7267594871752773632/)
 - [Platform Engineering Weekly](https://www.platformengineeringweekly.com/)
 - [Platform Weekly](https://platformweekly.com/)
