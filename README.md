@@ -122,3 +122,4 @@ _______________________________________________
 - [LiteLLM](https://litellm.ai/) — Call all LLM APIs using the OpenAI format (AI Gateway).
 - [Langfuse](https://langfuse.com/) — Open source LLM engineering platform (Observability, Analytics, Prompt Management).
 - [Portkey](https://portkey.ai/) — Enterprise AI gateway and observability platform for production LLM apps.
+- [Sandscale](https://sandscale.dev/) — Firecracker microVM sandboxes, workspaces and build hosts for AI coding agents, with policy controls, approvals and an audit log.
